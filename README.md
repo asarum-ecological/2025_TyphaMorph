@@ -10,7 +10,7 @@ You will find the following contents in this repository:
   - a .pdf of the accepted manuscript
   - a .pdf of the digital supplemental materials 
 
-### [Spatial Data](https://github.com/asarum-ecological/2023_UndetectedTypha/tree/main/Spectral%20Analysis%20)
+### [Spatial Data](https://github.com/asarum-ecological/2023_TyphaMorph/tree/main/Spatial%20Data)
   - precise locations of all <i>Typha</i> samples (morphological and genetic) in the estuary
   
 ### [Data](https://github.com/asarum-ecological/2023_UndetectedTypha/tree/main/Species%20Distribution%20Model)
