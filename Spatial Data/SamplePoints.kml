@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="samplepoints" id="samplepoints">
+	<SimpleField name="descriptio" type="string"></SimpleField>
+	<SimpleField name="SITE" type="string"></SimpleField>
+</Schema>
+<Folder><name>samplepoints</name>
+  <Placemark>
+	<name>A-F-1</name>
+	<ExtendedData><SchemaData schemaUrl="#samplepoints">
+		<SimpleData name="descriptio">T.  angustifolia</SimpleData>
+		<SimpleData name="SITE">FRENCHIES</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.113792007789,49.1013170219958,-4.508917</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>A-F-2</name>
+	<ExtendedData><SchemaData schemaUrl="#samplepoints">
+		<SimpleData name="descriptio">T.  angustifolia</SimpleData>
+		<SimpleData name="SITE">FRENCHIES</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.112775031477,49.1018080338836,-2.156487</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>A-F-3</name>
+	<ExtendedData><SchemaData schemaUrl="#samplepoints">
+		<SimpleData name="descriptio">T.  angustifolia</SimpleData>
+		<SimpleData name="SITE">FRENCHIES</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.113839030266,49.1006069909781,-6.130535</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>A-F-4</name>
+	<ExtendedData><SchemaData schemaUrl="#samplepoints">
+		<SimpleData name="descriptio">T.  angustifolia</SimpleData>
+		<SimpleData name="SITE">FRENCHIES</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.114277990535,49.0997819602489,-13.368971</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>A-F-5</name>
+	<ExtendedData><SchemaData schemaUrl="#samplepoints">
+		<SimpleData name="descriptio">T.  angustifolia</SimpleData>
+		<SimpleData name="SITE">FRENCHIES</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.112032981589,49.1023970302194,-1.396878</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>G-F-1</name>
+	<ExtendedData><SchemaData schemaUrl="#samplepoints">
+		<SimpleData name="descriptio">T.  X glauca</SimpleData>
+		<SimpleData name="SITE">FRENCHIES</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.116015978158,49.1017149947584,-6.366745</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>G-F-2</name>
+	<ExtendedData><SchemaData schemaUrl="#samplepoints">
+		<SimpleData name="descriptio">T.  X glauca</SimpleData>
+		<SimpleData name="SITE">FRENCHIES</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.11299296096,49.1021050047129,-2.331619</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>G-F-3</name>
+	<ExtendedData><SchemaData schemaUrl="#samplepoints">
+		<SimpleData name="descriptio">T.  X glauca</SimpleData>
+		<SimpleData name="SITE">FRENCHIES</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.11268299818,49.1013900283724,-2.01027</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>G-F-4</name>
+	<ExtendedData><SchemaData schemaUrl="#samplepoints">
+		<SimpleData name="descriptio">T.  X glauca</SimpleData>
+		<SimpleData name="SITE">FRENCHIES</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.112411005422,49.1005879640579,-2.028308</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>G-F-5</name>
+	<ExtendedData><SchemaData schemaUrl="#samplepoints">
+		<SimpleData name="descriptio">T.  X glauca</SimpleData>
+		<SimpleData name="SITE">FRENCHIES</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.116165008396,49.101447025314,-2.782926</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>L-F-1</name>
+	<ExtendedData><SchemaData schemaUrl="#samplepoints">
+		<SimpleData name="descriptio">T.  latifolia</SimpleData>
+		<SimpleData name="SITE">FRENCHIES</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.113306025043,49.1012359689921,-3.337155</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>L-F-2</name>
+	<ExtendedData><SchemaData schemaUrl="#samplepoints">
+		<SimpleData name="descriptio">T.  latifolia</SimpleData>
+		<SimpleData name="SITE">FRENCHIES</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.110987003893,49.1028049774468,-10.854675</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>L-F-3</name>
+	<ExtendedData><SchemaData schemaUrl="#samplepoints">
+		<SimpleData name="descriptio">T.  latifolia</SimpleData>
+		<SimpleData name="SITE">FRENCHIES</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.110792040825,49.1016730014235,-6.734275</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>L-F-4</name>
+	<ExtendedData><SchemaData schemaUrl="#samplepoints">
+		<SimpleData name="descriptio">T.  latifolia</SimpleData>
+		<SimpleData name="SITE">FRENCHIES</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.114095013589,49.0997019968927,-10.957243</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>L-F-5</name>
+	<ExtendedData><SchemaData schemaUrl="#samplepoints">
+		<SimpleData name="descriptio">T.  latifolia</SimpleData>
+		<SimpleData name="SITE">FRENCHIES</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.111563008279,49.1019210219383,-2.616252</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>A-I-1</name>
+	<ExtendedData><SchemaData schemaUrl="#samplepoints">
+		<SimpleData name="descriptio">T.  angustifolia</SimpleData>
+		<SimpleData name="SITE">IONA</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.212101003155,49.2201070301235,-2.806413</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>A-I-2</name>
+	<ExtendedData><SchemaData schemaUrl="#samplepoints">
+		<SimpleData name="descriptio">T.  angustifolia</SimpleData>
+		<SimpleData name="SITE">IONA</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.211399018764,49.2218779586256,-2.966814</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>A-I-3</name>
+	<ExtendedData><SchemaData schemaUrl="#samplepoints">
+		<SimpleData name="descriptio">T.  angustifolia</SimpleData>
+		<SimpleData name="SITE">IONA</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.210172997788,49.2215720191598,-0.293496</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>A-I-4</name>
+	<ExtendedData><SchemaData schemaUrl="#samplepoints">
+		<SimpleData name="descriptio">T.  angustifolia</SimpleData>
+		<SimpleData name="SITE">IONA</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.207856994122,49.2212250083685,-3.077987</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>A-I-5</name>
+	<ExtendedData><SchemaData schemaUrl="#samplepoints">
+		<SimpleData name="descriptio">T.  angustifolia</SimpleData>
+		<SimpleData name="SITE">IONA</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.213090989739,49.2223510332406,-1.07311</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>G-I-1</name>
+	<ExtendedData><SchemaData schemaUrl="#samplepoints">
+		<SimpleData name="descriptio">T.  X glauca</SimpleData>
+		<SimpleData name="SITE">IONA</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.213119991124,49.2180829681456,-3.462088</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>G-I-2</name>
+	<ExtendedData><SchemaData schemaUrl="#samplepoints">
+		<SimpleData name="descriptio">T.  X glauca</SimpleData>
+		<SimpleData name="SITE">IONA</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.212145008147,49.220097977668,-3.296512</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>G-I-3</name>
+	<ExtendedData><SchemaData schemaUrl="#samplepoints">
+		<SimpleData name="descriptio">T.  X glauca</SimpleData>
+		<SimpleData name="SITE">IONA</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.209672011435,49.2214560136199,-1.413643</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>G-I-4</name>
+	<ExtendedData><SchemaData schemaUrl="#samplepoints">
+		<SimpleData name="descriptio">T.  X glauca</SimpleData>
+		<SimpleData name="SITE">IONA</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.206484038383,49.2209299653769,-1.62112</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>G-I-5</name>
+	<ExtendedData><SchemaData schemaUrl="#samplepoints">
+		<SimpleData name="descriptio">T.  X glauca</SimpleData>
+		<SimpleData name="SITE">IONA</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.213551994413,49.2225040029734,-2.196839</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>L-I-1</name>
+	<ExtendedData><SchemaData schemaUrl="#samplepoints">
+		<SimpleData name="descriptio">T.  latifolia</SimpleData>
+		<SimpleData name="SITE">IONA</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.213012032211,49.2168649937958,-6.674059</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>L-I-2</name>
+	<ExtendedData><SchemaData schemaUrl="#samplepoints">
+		<SimpleData name="descriptio">T.  latifolia</SimpleData>
+		<SimpleData name="SITE">IONA</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.212789995596,49.2192039638758,-1.64792</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>L-I-3</name>
+	<ExtendedData><SchemaData schemaUrl="#samplepoints">
+		<SimpleData name="descriptio">T.  latifolia</SimpleData>
+		<SimpleData name="SITE">IONA</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.20204095915,49.2156360391527,-3.254699</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>L-I-4</name>
+	<ExtendedData><SchemaData schemaUrl="#samplepoints">
+		<SimpleData name="descriptio">T.  latifolia</SimpleData>
+		<SimpleData name="SITE">IONA</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.200503969565,49.2151420097798,-4.523548</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>L-I-5</name>
+	<ExtendedData><SchemaData schemaUrl="#samplepoints">
+		<SimpleData name="descriptio">T.  latifolia</SimpleData>
+		<SimpleData name="SITE">IONA</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.212872976437,49.2190659977496,-4.332963</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>A-S-2</name>
+	<ExtendedData><SchemaData schemaUrl="#samplepoints">
+		<SimpleData name="descriptio">T.  angustifolia</SimpleData>
+		<SimpleData name="SITE">STURGEON</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.198693981394,49.174905018881,-2.559251</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>A-S-3</name>
+	<ExtendedData><SchemaData schemaUrl="#samplepoints">
+		<SimpleData name="descriptio">T.  angustifolia</SimpleData>
+		<SimpleData name="SITE">STURGEON</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.202539011836,49.1741529945284,-1.789961</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>A-S-4</name>
+	<ExtendedData><SchemaData schemaUrl="#samplepoints">
+		<SimpleData name="descriptio">T.  angustifolia</SimpleData>
+		<SimpleData name="SITE">STURGEON</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.202895997092,49.1735929995775,-1.446325</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>A-S-5</name>
+	<ExtendedData><SchemaData schemaUrl="#samplepoints">
+		<SimpleData name="descriptio">T.  angustifolia</SimpleData>
+		<SimpleData name="SITE">STURGEON</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.203118033707,49.1733550373465,-3.993185</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>G-S-1</name>
+	<ExtendedData><SchemaData schemaUrl="#samplepoints">
+		<SimpleData name="descriptio">T.  X glauca</SimpleData>
+		<SimpleData name="SITE">STURGEON</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.194935033098,49.1752940230072,-1.544068</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>G-S-2</name>
+	<ExtendedData><SchemaData schemaUrl="#samplepoints">
+		<SimpleData name="descriptio">T.  X glauca</SimpleData>
+		<SimpleData name="SITE">STURGEON</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.201716998592,49.1743140108883,-1.604196</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>G-S-3</name>
+	<ExtendedData><SchemaData schemaUrl="#samplepoints">
+		<SimpleData name="descriptio">T.  X glauca</SimpleData>
+		<SimpleData name="SITE">STURGEON</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.202256960794,49.1740560159087,-1.144418</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>G-S-4</name>
+	<ExtendedData><SchemaData schemaUrl="#samplepoints">
+		<SimpleData name="descriptio">T.  X glauca</SimpleData>
+		<SimpleData name="SITE">STURGEON</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.202854003757,49.1737359948456,-2.168328</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>G-S-5</name>
+	<ExtendedData><SchemaData schemaUrl="#samplepoints">
+		<SimpleData name="descriptio">T.  X glauca</SimpleData>
+		<SimpleData name="SITE">STURGEON</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.202590979636,49.1738629806787,-5.427375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>L-S-1</name>
+	<ExtendedData><SchemaData schemaUrl="#samplepoints">
+		<SimpleData name="descriptio">T.  latifolia</SimpleData>
+		<SimpleData name="SITE">STURGEON</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.194507975131,49.1753060091287,-4.368373</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>L-S-2</name>
+	<ExtendedData><SchemaData schemaUrl="#samplepoints">
+		<SimpleData name="descriptio">T.  latifolia</SimpleData>
+		<SimpleData name="SITE">STURGEON</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.198640001938,49.174809968099,-2.09652</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>L-S-3</name>
+	<ExtendedData><SchemaData schemaUrl="#samplepoints">
+		<SimpleData name="descriptio">T.  latifolia</SimpleData>
+		<SimpleData name="SITE">STURGEON</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.200755007565,49.1739039681852,-1.495132</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>L-S-4</name>
+	<ExtendedData><SchemaData schemaUrl="#samplepoints">
+		<SimpleData name="descriptio">T.  latifolia</SimpleData>
+		<SimpleData name="SITE">STURGEON</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.201798973605,49.1743880230933,-1.33953</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>L-S-5</name>
+	<ExtendedData><SchemaData schemaUrl="#samplepoints">
+		<SimpleData name="descriptio">T.  latifolia</SimpleData>
+		<SimpleData name="SITE">STURGEON</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.202780997381,49.173559974879,-2.440011</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>L-S-6</name>
+	<ExtendedData><SchemaData schemaUrl="#samplepoints">
+		<SimpleData name="descriptio">T.  latifolia</SimpleData>
+		<SimpleData name="SITE">STURGEON</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.203091965988,49.1732449829578,-4.361952</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>A-S-5</name>
+	<ExtendedData><SchemaData schemaUrl="#samplepoints">
+		<SimpleData name="descriptio">T.  angustifolia</SimpleData>
+		<SimpleData name="SITE">STURGEON</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-123.194987000898,49.1753899957985,-2.053094</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>
