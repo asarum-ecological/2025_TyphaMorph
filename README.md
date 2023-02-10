@@ -2,7 +2,7 @@
 
 ![Cattail](https://github.com/asarum-ecological/2023_TyphaMorph/blob/cd9ff2fab316cc6e35af3f346def201c96ad3e4e/Picture.jpg)
 
-Welcome to the repository for our journal article entitled "Macroscopic traits effectively identify hybrid cattail (<i>Typha</i> × <i>glauca</i) in the Fraser River Estuary, British Columbia ", which was published in XXXX in 2023. 
+Welcome to the repository for our journal article entitled "Macroscopic traits effectively identify hybrid cattail (<i>Typha</i> × <i>glauca</i>) in the Fraser River Estuary, British Columbia ", which was published in XXXX in 2023. 
 
 You will find the following contents in this repository:
 
