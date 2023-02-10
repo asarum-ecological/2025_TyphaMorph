@@ -13,10 +13,10 @@ You will find the following contents in this repository:
 ### [Spatial Data](https://github.com/asarum-ecological/2023_TyphaMorph/tree/main/Spatial%20Data)
   - precise locations of all <i>Typha</i> samples (morphological and genetic) in the estuary
   
-### [Data](https://github.com/asarum-ecological/2023_UndetectedTypha/tree/main/Species%20Distribution%20Model)
+### [Data](https://github.com/asarum-ecological/2023_TyphaMorph/tree/main/Data)
   - morphological data 
 
-### [Code](https://github.com/asarum-ecological/2023_UndetectedTypha/tree/main/Species%20Distribution%20Model)
+### [Code](https://github.com/asarum-ecological/2023_TyphaMorph/tree/main/Code)
   - R Code used to generate plots and conduct analyses
   
 Any additional data may be available upon request.
