@@ -18,7 +18,7 @@ You will find the following in this repository:
 
 #### [Code](https://github.com/asarum-ecological/2023_TyphaMorph/tree/main/Code)
   - R Code used to generate plots and conduct analyses
-#### [Plot Data] (https://github.com/asarum-ecological/2023_TyphaMorph/tree/main/Plot%20Data)
+#### [Plot Data](https://github.com/asarum-ecological/2023_TyphaMorph/tree/main/Plot%20Data)
   - R scripts to plot both the triangle plot and MDS plot 
   - Raw data used in plots
     -HIest_Formatted_G.csv contains genetic marker data in which each columnin a locus and there are two 
