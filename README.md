@@ -18,7 +18,12 @@ You will find the following in this repository:
 
 #### [Code](https://github.com/asarum-ecological/2023_TyphaMorph/tree/main/Code)
   - R Code used to generate plots and conduct analyses
-  
+#### [Plot Data] (https://github.com/asarum-ecological/2023_TyphaMorph/tree/main/Plot%20Data)
+  - R scripts to plot both the triangle plot and MDS plot 
+  - Raw data used in plots
+    -HIest_Formatted_G.csv contains genetic marker data in which each columnin a locus and there are two 
+    rows for each individual since the allele type is="codominant"
+    -HIest_Formatted_P.csv contains the locus name, allele name, P1 allele frequency, P2 allele frequency. contains a seperate row for each allele  
 
 The extent of non-native cattail in the estuary continues to be investigated. For an up to date map of field-verified cattail please visit this [link](https://www.google.com/maps/d/u/0/edit?mid=1Gxm6n921sl6ph-dF6LTEKDhTrqaUaCoK&ll=49.137229809022216%2C-123.15205739999999&z=11).
 
