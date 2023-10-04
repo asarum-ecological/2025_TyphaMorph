@@ -6,7 +6,7 @@ Welcome to the repository for our journal article entitled "Macroscopic traits e
 
 You will find the following in this repository:
 
-#### [Publication Files](https://github.com/asarum-ecological/2023_UndetectedTypha/tree/main/Publication%20Files)
+#### [Publication Files](https://github.com/asarum-ecological/2023_TyphaMorph/tree/main/Publication%20Files)
   - a .pdf of the accepted manuscript
   - a .pdf of the digital supplemental materials 
 
