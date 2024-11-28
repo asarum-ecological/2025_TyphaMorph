@@ -1,8 +1,8 @@
-# Repository for Buckholtz & Stewart et al. (2024)
+# Repository for Buckholtz, Stewart et al. (2024)
 
 ![Cattail](https://github.com/asarum-ecological/2023_TyphaMorph/blob/cd9ff2fab316cc6e35af3f346def201c96ad3e4e/Picture.jpg)
 
-Welcome to the repository for our journal article entitled "Macroscopic traits effectively identify hybrid cattail (<i>Typha</i> × <i>glauca</i>) in the Fraser River Estuary, British Columbia ", which was published in Estuaries and Coasts in 2024. 
+Welcome to the repository for our journal article entitled "Decrypting the invasion of non-native cattails (<i>Typha</i> spp.) in the Fraser River Estuary, British Columbia using morphological and microsatellite analyses", which was published in Estuaries and Coasts in 2024. 
 
 You will find the following in this repository:
 
@@ -13,12 +13,10 @@ You will find the following in this repository:
 #### [Spatial Data](https://github.com/asarum-ecological/2023_TyphaMorph/tree/main/Spatial%20Data)
   - precise locations of all <i>Typha</i> samples (morphological and genetic) in the estuary
   
-#### [Data](https://github.com/asarum-ecological/2023_TyphaMorph/tree/main/Data)
-  - morphological data 
-
-#### [Code](https://github.com/asarum-ecological/2023_TyphaMorph/tree/main/Code)
-  - R Code used to generate plots and conduct analyses
-#### [Plot Data](https://github.com/asarum-ecological/2023_TyphaMorph/tree/main/Plot%20Data)
+#### [Field Data](https://github.com/asarum-ecological/2023_TyphaMorph/tree/main/Field%20Data)
+  - morphological data collected in July 2020
+    
+#### [Plot Files](https://github.com/asarum-ecological/2023_TyphaMorph/tree/main/Plot%20Files)
   - R scripts to plot both the triangle plot and MDS plot 
   - HIest package as it was removed from CRAN repository post-analysis 
   - Raw data used in plots
@@ -27,7 +25,6 @@ You will find the following in this repository:
     - HIest_Formatted_P.csv contains the locus name, allele name, P1 allele frequency, P2 allele frequency. contains a seperate row for each allele 
     - GenAlExPoppr.csv contains all individuals and their alleles at particular loci which are listed in the 3rd row. It is formatted for calculating Bruvo's distance 
     - Typha_Mean_Data.csv contains morphological data used in randomForest analysis
-
 
 
 The extent of non-native cattail in the estuary continues to be investigated. For an up to date map of field-verified cattail please visit this [link](https://www.google.com/maps/d/u/0/edit?mid=1Gxm6n921sl6ph-dF6LTEKDhTrqaUaCoK&ll=49.137229809022216%2C-123.15205739999999&z=11).
