@@ -1,6 +1,6 @@
 # Repository for Buckholtz, Stewart et al. (2024)
 
-![Cattail](https://github.com/asarum-ecological/2023_TyphaMorph/blob/cd9ff2fab316cc6e35af3f346def201c96ad3e4e/Picture.jpg)
+![Cattail](https://github.com/asarum-ecological/2024_TyphaMorph/blob/cd9ff2fab316cc6e35af3f346def201c96ad3e4e/Picture.jpg)
 
 Welcome to the repository for our journal article entitled "Decrypting the invasion of non-native cattails (<i>Typha</i> spp.) in the Fraser River Estuary, British Columbia using morphological and microsatellite analyses", which was published in Estuaries and Coasts in 2024. 
 
