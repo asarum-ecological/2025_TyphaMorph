@@ -26,7 +26,9 @@ You will find the following in this repository:
     - GenAlExPoppr.csv contains all individuals and their alleles at particular loci which are listed in the 3rd row. It is formatted for calculating Bruvo's distance 
     - Typha_Mean_Data.csv contains morphological data used in randomForest analysis
 
+#### Want to learn more about cattail in the Fraser River Estuary?
+  - The extent of non-native cattail in the estuary continues to be investigated. For an up to date map of field-verified cattail please visit this [link](https://www.google.com/maps/d/u/0/edit?mid=1Gxm6n921sl6ph-dF6LTEKDhTrqaUaCoK&ll=49.137229809022216%2C-123.15205739999999&z=11).
+  - A related paper, involving imagery analyis and species distribution modelling of invasive cattail in the Fraser Estuary can be found here [link](https://link.springer.com/article/10.1007/s12237-023-01171-4).
 
-The extent of non-native cattail in the estuary continues to be investigated. For an up to date map of field-verified cattail please visit this [link](https://www.google.com/maps/d/u/0/edit?mid=1Gxm6n921sl6ph-dF6LTEKDhTrqaUaCoK&ll=49.137229809022216%2C-123.15205739999999&z=11).
 
 Should you have any inquiries, please feel free to email [Daniel Stewart](mailto:daniel.stewart@asarum.org) or [Gracy Buckholtz](mailto:gracybuckholtz@gmail.com).
